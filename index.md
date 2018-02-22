@@ -26,3 +26,4 @@ If you're an active InterMine user, developer, or maintainer, and you have an in
 
 - [The GSoC Student guide](https://google.github.io/gsocguides/student/)
 - [The GSoC Mentor guide](https://google.github.io/gsocguides/mentor/)
+- [Timeline](https://developers.google.com/open-source/gsoc/timeline) 
